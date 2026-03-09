@@ -8,11 +8,13 @@ export const metadata: Metadata = {
 };
 
 const projects = [
-  { title: "Mint Condo Lobby", slug: "mint-condo-lobby", image: "/images/projects/mint-condo-lobby.png", category: "Painting, Waterproofing & Restoration" },
-  { title: "Condo Work Force", slug: "condo-work-force", image: "/images/projects/condo-work-force.png", category: "Interior Design & Renovation" },
+  { title: "Mint Condo Lobby", slug: "mint-condo-lobby", image: "/images/projects/mint-condo-lobby.webp", category: "Painting, Waterproofing & Restoration" },
   { title: "Mar Del Plata Lobby Renovation", slug: "mar-del-plata-lobby-renovation", image: "/images/projects/mar-del-plata.png", category: "Painting, Waterproofing & Restoration" },
-  { title: "Residential Condo Remodel", slug: "residential-condo-remodel", image: "/images/projects/residential-condo-remodel.png", category: "Interior Design & Renovation" },
-  { title: "Club Atlantis Reception", slug: "club-atlantis-reception", image: "/images/projects/club-atlantis.png", category: "Interior Design & Renovation" },
+  { title: "Harbour House", slug: "harbour-house", image: "/images/projects/harbour-house.webp", category: "Painting, Waterproofing & Restoration" },
+  { title: "Coronado at Highland Beach", slug: "coronado-highland-beach", image: "/images/projects/coronado.webp", category: "Painting, Waterproofing & Restoration" },
+  { title: "One Plantation", slug: "one-plantation", image: "/images/projects/one-plantation.webp", category: "Painting, Waterproofing & Restoration" },
+  { title: "Sea Air Tower", slug: "sea-air-tower", image: "/images/projects/sea-air-tower.webp", category: "Painting, Waterproofing & Restoration" },
+  { title: "Parc at Turnberry", slug: "parc-at-turnberry", image: "/images/projects/parc-turnberry.webp", category: "Painting, Waterproofing & Restoration" },
 ];
 
 export default function TheWorkPage() {

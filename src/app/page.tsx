@@ -10,11 +10,12 @@ export const metadata: Metadata = {
 };
 
 const projects = [
-  { title: "Mint Condo Lobby", slug: "mint-condo-lobby", image: "/images/projects/mint-condo-lobby.png", category: "Painting, Waterproofing & Restoration" },
-  { title: "Condo Work Force", slug: "condo-work-force", image: "/images/projects/condo-work-force.png", category: "Interior Design & Renovation" },
+  { title: "Mint Condo Lobby", slug: "mint-condo-lobby", image: "/images/projects/mint-condo-lobby.webp", category: "Painting, Waterproofing & Restoration" },
   { title: "Mar Del Plata Lobby Renovation", slug: "mar-del-plata-lobby-renovation", image: "/images/projects/mar-del-plata.png", category: "Painting, Waterproofing & Restoration" },
-  { title: "Residential Condo Remodel", slug: "residential-condo-remodel", image: "/images/projects/residential-condo-remodel.png", category: "Interior Design & Renovation" },
-  { title: "Club Atlantis Reception", slug: "club-atlantis-reception", image: "/images/projects/club-atlantis.png", category: "Interior Design & Renovation" },
+  { title: "Harbour House", slug: "harbour-house", image: "/images/projects/harbour-house.webp", category: "Painting, Waterproofing & Restoration" },
+  { title: "Coronado at Highland Beach", slug: "coronado-highland-beach", image: "/images/projects/coronado.webp", category: "Painting, Waterproofing & Restoration" },
+  { title: "One Plantation", slug: "one-plantation", image: "/images/projects/one-plantation.webp", category: "Painting, Waterproofing & Restoration" },
+  { title: "Sea Air Tower", slug: "sea-air-tower", image: "/images/projects/sea-air-tower.webp", category: "Painting, Waterproofing & Restoration" },
 ];
 
 export default function HomePage() {
@@ -115,7 +116,7 @@ export default function HomePage() {
       {/* Customer Centric Approach — green overlay section */}
       <section className="relative py-20 overflow-hidden">
         <div className="absolute inset-0">
-          <Image src="/images/hero/hero-pressure.jpg" alt="" fill className="object-cover" />
+          <Image src="/images/hero/customer_first-1.jpg" alt="" fill className="object-cover" />
           <div className="absolute inset-0 bg-green-700/80" />
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -140,7 +141,7 @@ export default function HomePage() {
       {/* Exceeding Expectations — green overlay section */}
       <section className="relative py-20 overflow-hidden">
         <div className="absolute inset-0">
-          <Image src="/images/hero/hero-painting.jpg" alt="" fill className="object-cover" />
+          <Image src="/images/hero/exceeding_expectations-1.jpg" alt="" fill className="object-cover" />
           <div className="absolute inset-0 bg-green-700/80" />
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

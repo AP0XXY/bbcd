@@ -4,11 +4,11 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const slides = [
-  "/images/hero/hero-main.jpg",
-  "/images/hero/hero-building.jpg",
-  "/images/hero/hero-painting.jpg",
-  "/images/hero/oceanview.jpg",
-  "/images/hero/lounge.jpg",
+  "/images/hero/featured_esplanade-jpg.webp",
+  "/images/hero/featured_williams_island_painting-jpg.webp",
+  "/images/hero/featured_latour-jpg.webp",
+  "/images/hero/featured_south_bridge-jpg.webp",
+  "/images/hero/featured_delvista_painting-jpg.webp",
 ];
 
 export default function HeroSlideshow() {

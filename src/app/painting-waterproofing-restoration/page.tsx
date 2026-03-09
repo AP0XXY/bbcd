@@ -30,11 +30,12 @@ const additionalServices = [
 ];
 
 const projects = [
-  { title: "Mint Condo Lobby", image: "/images/projects/mint-condo-lobby.png" },
-  { title: "Condo Work Force", image: "/images/projects/condo-work-force.png" },
+  { title: "Mint Condo Lobby", image: "/images/projects/mint-condo-lobby.webp" },
   { title: "Mar Del Plata", image: "/images/projects/mar-del-plata.png" },
-  { title: "Residential Condo", image: "/images/projects/residential-condo-remodel.png" },
-  { title: "Club Atlantis", image: "/images/projects/club-atlantis.png" },
+  { title: "Harbour House", image: "/images/projects/harbour-house.webp" },
+  { title: "Coronado at Highland Beach", image: "/images/projects/coronado.webp" },
+  { title: "One Plantation", image: "/images/projects/one-plantation.webp" },
+  { title: "Sea Air Tower", image: "/images/projects/sea-air-tower.webp" },
 ];
 
 export default function PaintingPage() {
