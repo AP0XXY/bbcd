@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    { "source": "/how-do-you-modernize-an-old-shower", "destination": "/blog/how-do-you-modernize-an-old-shower/", "permanent": true },
+    { "source": "/how-long-does-it-take-to-remodel-a-bathroom", "destination": "/blog/how-long-does-it-take-to-remodel-a-bathroom/", "permanent": true },
+    { "source": "/how-long-does-it-take-to-remodel-a-shower", "destination": "/blog/how-long-does-it-take-to-remodel-a-shower/", "permanent": true },
+    { "source": "/what-is-the-most-expensive-part-of-a-kitchen", "destination": "/blog/what-is-the-most-expensive-part-of-a-kitchen/", "permanent": true },
+    { "source": "/how-much-should-a-12x12-kitchen-remodel-cost", "destination": "/blog/how-much-should-a-12x12-kitchen-remodel-cost/", "permanent": true },
+    { "source": "/how-much-does-it-cost-to-remodel-a-kitchen-in-florida", "destination": "/blog/how-much-does-it-cost-to-remodel-a-kitchen-in-florida/", "permanent": true },
+    { "source": "/what-are-luxury-materials-for-bathrooms", "destination": "/blog/what-are-luxury-materials-for-bathrooms/", "permanent": true },
+    { "source": "/why-is-bathroom-luxury-important", "destination": "/blog/why-is-bathroom-luxury-important/", "permanent": true },
+    { "source": "/how-to-create-a-luxury-bathroom", "destination": "/blog/how-to-create-a-luxury-bathroom/", "permanent": true },
+    { "source": "/what-is-the-hardest-part-of-the-bathroom-renovation", "destination": "/blog/what-is-the-hardest-part-of-the-bathroom-renovation/", "permanent": true },
+    { "source": "/what-adds-the-most-value-to-a-bathroom", "destination": "/blog/what-adds-the-most-value-to-a-bathroom/", "permanent": true },
+    { "source": "/how-much-does-a-bathroom-remodel-cost-in-miami", "destination": "/blog/how-much-does-a-bathroom-remodel-cost-in-miami/", "permanent": true },
+    { "source": "/what-is-the-most-expensive-part-of-a-bathroom-remodel", "destination": "/blog/what-is-the-most-expensive-part-of-a-bathroom-remodel/", "permanent": true },
+    { "source": "/when-remodeling-a-house-what-comes-first", "destination": "/blog/when-remodeling-a-house-what-comes-first/", "permanent": true },
+    { "source": "/what-room-is-the-most-expensive-to-renovate", "destination": "/blog/what-room-is-the-most-expensive-to-renovate/", "permanent": true },
+    { "source": "/how-to-budget-wisely-for-your-bathroom-renovation", "destination": "/blog/how-to-budget-wisely-for-your-bathroom-renovation/", "permanent": true },
+    { "source": "/how-much-does-it-cost-per-square-foot-to-renovate-a-condo", "destination": "/blog/how-much-does-it-cost-per-square-foot-to-renovate-a-condo/", "permanent": true },
+    { "source": "/should-you-replace-toilet-in-bathroom-renovation", "destination": "/blog/should-you-replace-toilet-in-bathroom-renovation/", "permanent": true },
+    { "source": "/home", "destination": "/", "permanent": true },
+    { "source": "/galleryyy", "destination": "/the-work/", "permanent": true },
+    { "source": "/request-a-quote-2", "destination": "/request-a-quote/", "permanent": true },
+    { "source": "/portfolio", "destination": "/the-work/", "permanent": true }
+  ]
+}
