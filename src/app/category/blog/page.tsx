@@ -42,8 +42,7 @@ export default function BlogPage() {
             {posts.map((post) => (
               <article key={post.slug} className="bg-light rounded-lg overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="p-6">
-                  <time className="text-sm text-gold font-medium">{post.date}</time>
-                  <h2 className="text-lg font-bold text-navy mt-2 mb-3">{post.title}</h2>
+                  <h2 className="text-lg font-bold text-navy mb-3">{post.title}</h2>
                   <p className="text-gray-600 text-sm mb-4">{post.excerpt}</p>
                   <Link href={`/blog/${post.slug}`} className="text-gold font-semibold text-sm hover:text-gold/80 transition-colors inline-flex items-center gap-1">
                     Read More <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
